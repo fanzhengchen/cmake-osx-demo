@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "null",
+            "includePath": ["${workspaceRoot}/include", "/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/include"],
+            "defines": [],
+            "browse": {
+                "path": ["${workspaceRoot}/include", "/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/include"],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ]
+}

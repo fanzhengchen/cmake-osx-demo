@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -std=c++11 -g -dynamiclib -Wl,-headerpad_max_install_names  -o libfoo.dylib -install_name @rpath/libfoo.dylib CMakeFiles/foo.dir/demo_jvm.cpp.o CMakeFiles/foo.dir/foo.cpp.o CMakeFiles/foo.dir/jni_main.cpp.o 
